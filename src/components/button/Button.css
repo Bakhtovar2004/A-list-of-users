@@ -1,0 +1,17 @@
+.btns {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  button {
+    width: 100px;
+    height: 35px;
+    border-radius: 50px;
+    border: 1px black solid;
+    margin: 0px 30px 0px 30px;
+    gap: 0px;
+  }
+
+  button:hover{
+    background-color:lightgrey;
+  }
